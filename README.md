@@ -36,4 +36,4 @@ Both GDAL and Fiona should get installed. Now try installing geopandas.
 
 ``pip install geopandas``
 
-
+Should work now!
