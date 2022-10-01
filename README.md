@@ -27,13 +27,13 @@ Next, search for gdal on the same website, and download the latest version match
 Now Copy both files to your working directory as pip doesn't like the windows pathes.
 
 Now, within your working directory, install GDAL followed by Fiona using pip install
-``
-pip install GDAL-3.3.1-cp38-cp38-win_amd64.whl
 
-pip install Fiona-1.8.19-cp38-cp38-win_amd64.whl
+``
+    pip install GDAL-3.3.1-cp38-cp38-win_amd64.whl
+    pip install Fiona-1.8.19-cp38-cp38-win_amd64.whl
 ``
 Both GDAL and Fiona should get installed. Now try installing geopandas.
 
 ``pip install geopandas``
 
-Should work now!
+Should work
