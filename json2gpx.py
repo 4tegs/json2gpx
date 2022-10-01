@@ -57,5 +57,5 @@ def convert_json2gpx(filename,trackname):
         exit
 
 if __name__ == "__main__":
-	convert_json2gpx(traccar-get.json,"Test")
+	convert_json2gpx("traccar-get.json","Test")
 

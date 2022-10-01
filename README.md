@@ -34,6 +34,6 @@ pip install Fiona-1.8.19-cp38-cp38-win_amd64.whl
 ```
 Both GDAL and Fiona should get installed. Now try installing geopandas.
 
-``pip install geopandas```
+```pip install geopandas```
 
 Should work
